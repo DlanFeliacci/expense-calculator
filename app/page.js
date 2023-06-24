@@ -174,6 +174,7 @@ export default function Home() {
           </div>
         )}
       </div>
+      <div>Built by Adlene Feliachi</div>
     </main>
   );
 }

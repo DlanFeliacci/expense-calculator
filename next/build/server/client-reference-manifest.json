@@ -237,10 +237,6 @@
     }
   },
   "entryCSSFiles": {
-    "C:\\Users\\adlene\\Desktop\\expenses-tracker\\app\\page": {
-      "modules": [],
-      "files": []
-    },
     "C:\\Users\\adlene\\Desktop\\expenses-tracker\\app\\layout": {
       "modules": [
         "C:\\Users\\adlene\\Desktop\\expenses-tracker\\app\\globals.css",
@@ -249,6 +245,10 @@
       "files": [
         "static/css/app/layout.css"
       ]
+    },
+    "C:\\Users\\adlene\\Desktop\\expenses-tracker\\app\\page": {
+      "modules": [],
+      "files": []
     }
   }
 }
